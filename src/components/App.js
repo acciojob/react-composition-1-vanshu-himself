@@ -2,7 +2,7 @@
 import React from "react";
 import './../styles/App.css';
 import Tab from "./Tab";
-const tabs=[{title:"A", content:"Hello A"},{title:"B", content:"Hello B"},{title:"C", content:"Hello C"}]
+const tabs=[{title:"A", content:"Tab 1"},{title:"B", content:"Tab 2"},{title:"C", content:"Tab 3"}]
 
 const App = () => {
   return (
