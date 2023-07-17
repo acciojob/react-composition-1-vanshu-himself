@@ -10,7 +10,7 @@ const App = () => {
         {/* Do not remove the main div */}
        
         
-        <Tab tabs={tabs}/>
+        <Tab arr={tabs}/>
     </div>
   )
 }
